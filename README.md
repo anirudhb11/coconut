@@ -13,7 +13,7 @@ cd coconut
 
 Setup environment:
 ```
-conda create --name coconut python=3.12
+conda create --name coconut python=3.12 -y
 conda activate coconut
 pip install -r requirements.txt
 ```
